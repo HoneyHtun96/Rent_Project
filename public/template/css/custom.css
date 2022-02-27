@@ -1,0 +1,27 @@
+@media (min-width: 1200px){
+	.container {
+	    max-width: 960px !important;
+	}
+}
+
+.bg-mylight{
+    background-color: #807a7a;
+}
+.card-title{
+	background-color: rgba(50,53,57,.45);
+    border-radius: 35px;
+    color: #fff;
+    padding: 8px 18px;
+    font-size: 16px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+.card-img-top {
+    width: 100%;
+    border-top-left-radius: calc(1rem - 1px);
+    border-top-right-radius: calc(1rem - 1px);
+}
+.pt-4{
+    background-color: #8b939a;
+}
